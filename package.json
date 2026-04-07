@@ -1,5 +1,5 @@
 {
-  "name": "ai-diff-summary",
+  "name": "@lxgicstudios/ai-diff-summary",
   "version": "1.0.0",
   "description": "AI-powered git diff summarizer - human-readable change summaries with GPT",
   "main": "dist/index.js",
