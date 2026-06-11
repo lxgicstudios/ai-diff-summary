@@ -16,7 +16,7 @@
 
 # AI Diff Summary
 
-solve specific development challenges with AI-powered insights.
+AI-powered git diff summarizer — human-readable changelogs and PR descriptions from diffs. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-diff-summary.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-diff-summary)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-diff-summary?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-diff-summary)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered git diff summarizer - human-readable change summaries with GPT.
+> AI-powered git diff summarizer — human-readable changelogs from diffs with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
