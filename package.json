@@ -8,7 +8,7 @@
     "ai-diff-summary": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-diff-summary/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-diff-summary",
+  "homepage": "https://github.com/LXGIC-Studios/ai-diff-summary",
   "keywords": [
     "diff",
     "git-diff",
@@ -39,7 +39,19 @@
     "changelog",
     "comparison",
     "june-2026-core-update",
-    "technical-seo"
+    "technical-seo",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-diff-summary"
+    "url": "git+https://github.com/LXGIC-Studios/ai-diff-summary.git"
   },
   "scripts": {
     "build": "tsc"
